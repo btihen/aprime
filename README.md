@@ -1,3 +1,5 @@
+Calculates A' (A prime) for classified data against a model's prediction.
+
 # Aprime calculator
 
 This is very basic code
