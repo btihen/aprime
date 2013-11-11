@@ -1,6 +1,6 @@
-Calculates A' (A prime) for classified data against a model's prediction.
-
 # Aprime calculator
+
+**Calculates A' (A prime) for classified data against a model's prediction.**
 
 This is very basic code
 You must have the observation in the first column (y/n - only for the moment)
